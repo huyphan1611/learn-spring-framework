@@ -5,7 +5,7 @@ import com.hamamochi.learnspringframework.game.MarioGame;
 import com.hamamochi.learnspringframework.game.PacManGame;
 import com.hamamochi.learnspringframework.game.SuperContraGame;
 
-public class AppGamingBasic {
+public class App01GamingBasic {
 
 	public static void main(String[] args) {
 //		var game = new MarioGame();
